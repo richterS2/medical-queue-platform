@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medical PWD</string>
+    <string name="emissao">Emissão de Senhas - Atendimento</string>
+    <string name="clinico_geral">Clínico Geral</string>
+    <string name="ginecologia">Pediatria</string>
+    <string name="pediatria">Ginecologia</string>
+
+
+</resources>
