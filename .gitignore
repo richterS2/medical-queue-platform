@@ -3,6 +3,29 @@
 # Learn more about .gitignore:
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+# Android / Gradle
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Build folders
+build/
+app/build/
+
+# Firebase / Secrets
+google-services.json
+
+# VSCode
+.vscode/
+
+# Kotlin
+*.kotlin_module
+
 # Node artifact files
 node_modules/
 dist/
